@@ -1,0 +1,24 @@
+2024-03-11 02:58:39 INFO  Methods:27 - Test başlatıldı.
+2024-03-11 02:58:44 INFO  Methods:29 - Setur Url e gidildi.
+2024-03-11 02:58:44 INFO  Methods:36 - setur url’nin geldiği kontrol edildi.
+2024-03-11 02:58:49 INFO  Methods:43 - popup kapatıldı ve cookie'ler kabul edildi.
+2024-03-11 02:58:50 INFO  Methods:50 - Default olarak Otel Tabı seçili geldiği kontrol edildi.
+2024-03-11 02:58:51 INFO  Methods:59 - Nereye gideceksiniz kısmına Csv dosyasından okutularak Antalya yazıldı
+2024-03-11 02:58:52 INFO  Methods:66 - Tarih nisanın ilk haftası seçildi
+2024-03-11 02:58:53 INFO  Methods:76 - Kişi sayısı 1 arttırıldı ve arttırıldığı doğrulandı
+2024-03-11 02:58:55 INFO  Methods:82 - Ara butonunun görünülürlüğü kontrol edilip tıklandı
+2024-03-11 02:59:00 INFO  Methods:88 - Url'in antalya kelimesini içerdiği kontrol edildi
+2024-03-11 02:59:08 INFO  Methods:103 - rastgele tıklama metotu kullanılarak bir bölge seçimi yapıldı
+2024-03-11 02:59:10 INFO  Methods:116 - Gösterilen sonuç 20 den fazla ise sayfanın sonuna gidilip assertion yapıldı
+2024-03-11 11:08:19 INFO  Methods:27 - Test başlatıldı.
+2024-03-11 11:08:22 INFO  Methods:29 - Setur Url e gidildi.
+2024-03-11 11:08:22 INFO  Methods:36 - setur url’nin geldiği kontrol edildi.
+2024-03-11 11:08:25 INFO  Methods:43 - popup kapatıldı ve cookie'ler kabul edildi.
+2024-03-11 11:08:26 INFO  Methods:50 - Default olarak Otel Tabı seçili geldiği kontrol edildi.
+2024-03-11 11:08:28 INFO  Methods:59 - Nereye gideceksiniz kısmına Csv dosyasından okutularak Antalya yazıldı
+2024-03-11 11:08:29 INFO  Methods:66 - Tarih nisanın ilk haftası seçildi
+2024-03-11 11:08:29 INFO  Methods:76 - Kişi sayısı 1 arttırıldı ve arttırıldığı doğrulandı
+2024-03-11 11:08:32 INFO  Methods:82 - Ara butonunun görünülürlüğü kontrol edilip tıklandı
+2024-03-11 11:08:34 INFO  Methods:88 - Url'in antalya kelimesini içerdiği kontrol edildi
+2024-03-11 11:08:47 INFO  Methods:103 - rastgele tıklama metotu kullanılarak bir bölge seçimi yapıldı
+2024-03-11 11:08:49 INFO  Methods:116 - Gösterilen sonuç 20 den fazla ise sayfanın sonuna gidilip assertion yapıldı
